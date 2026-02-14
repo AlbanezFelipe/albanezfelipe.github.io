@@ -1,0 +1,1 @@
+import{d as t}from"./index-DS8ZJiFe.js";import{u as a}from"./localization-Ce2crcrx.js";const i=["pt","en"],l=a(),e=(...o)=>o[i.indexOf(l.lang)],s=t(({app:o})=>{o.config.globalProperties.$localize=e});export{s as default};
