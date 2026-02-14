@@ -1,0 +1,1 @@
+import{d as t}from"./index-BMskmW04.js";import{u as a}from"./localization-BdFneQRs.js";const i=["pt","en"],l=a(),e=(...o)=>o[i.indexOf(l.lang)],s=t(({app:o})=>{o.config.globalProperties.$localize=e});export{s as default};

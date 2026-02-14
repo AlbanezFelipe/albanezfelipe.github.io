@@ -1,1 +1,0 @@
-import{d as t}from"./index-BeJSCi5x.js";import{u as a}from"./localization-5UB-OT5z.js";const i=["pt","en"],l=a(),e=(...o)=>o[i.indexOf(l.lang)],s=t(({app:o})=>{o.config.globalProperties.$localize=e});export{s as default};
